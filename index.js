@@ -9,5 +9,5 @@ function destructivelyPrependKitten(name){
   return kittens;
 }
 function destructivelyRemoveLastKitten(){
-  
+  kittens.
 }
