@@ -4,4 +4,3 @@ function destructivelyAppendKitten (name,element){
   name.push(element);
   return name;
 }
-//function destructivelyPrependKitten(name)
